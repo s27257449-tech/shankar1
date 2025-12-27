@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="text-align:center; margin-top:120px; font-family:Arial;">
+
+  <h2>Support Team se baat kare</h2>
+  <p>Click karke WhatsApp chat start kare</p>
+
+  <a href="https://wa.me/917234959704?text=Hello%20mujhe%20details%20chahiye"
+     target="_blank"
+     style="
+       background:#25D366;
+       color:white;
+       padding:16px 28px;
+       text-decoration:none;
+       font-size:18px;
+       border-radius:10px;
+       display:inline-block;
+     ">
+     💬 Chat on WhatsApp
+  </a>
+
+</body>
+</html>
